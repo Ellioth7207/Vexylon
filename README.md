@@ -11,8 +11,7 @@
 
 # Vexylon
 
-**Universal thermal-throttling disabler for CPU, GPU & Camera.**
-For ROOT Users — one module, every chipset.
+**Universal thermal-throttling disabler for CPU, GPU & Camera.** One module, every chipset.
 
 ---
 
