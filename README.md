@@ -1,0 +1,2 @@
+# Vexylon
+Disable Thermal
