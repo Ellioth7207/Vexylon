@@ -150,7 +150,7 @@ This attribution must not be removed, hidden, or replaced.
 
 ## Link Policy
 
-Official links associated with Vexylon (download, source, and release links) must not be changed, replaced, shortened, redirected, or hidden without prior written permission from [Telegram : @ellioth7207](https://github.com/ellioth7207). This applies to links in redistribution posts and repackaged copies of the module alike.
+Official links associated with Vexylon (download, source, and release links) must not be changed, replaced, shortened, redirected, or hidden without prior written permission from [Telegram : @ellioth7207](https://t.me/ellioth7207). This applies to links in redistribution posts and repackaged copies of the module alike.
 
 ## Disclaimer
 
