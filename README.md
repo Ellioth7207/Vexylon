@@ -37,7 +37,7 @@ If any of the above is unacceptable for your use case, do not install this modul
 | | |
 |---|---|
 | **Module ID** | `vennec_vexylon` |
-| **Version** | `12.0` (versionCode `1229`) |
+| **Version** | `12.0` |
 | **Author** | [@vennec](https://t.me/Vennec) |
 | **Minimum Magisk** | v20.4 (versionCode `20400`) |
 
