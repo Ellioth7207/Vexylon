@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://sfl.gl/IQOD9zRZ"><img src="https://img.shields.io/badge/Download-TapHere-0A84FF?style=for-the-badge&logo=android&logoColor=white" alt="Download Ven26Emoji" height="45" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
+<a href="https://sfl.gl/7P7402"><img src="https://img.shields.io/badge/Download-TapHere-0A84FF?style=for-the-badge&logo=android&logoColor=white" alt="Download Ven26Emoji" height="45" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
 <a href="https://t.me/Vennec"><img src="https://img.shields.io/badge/Telegram-@VENNEC-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Channel" height="45" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
 
 </div>
@@ -36,7 +36,7 @@ If any of the above is unacceptable for your use case, do not install this modul
 | | |
 |---|---|
 | **Module ID** | `vennec_vexylon` |
-| **Version** | `12.0` |
+| **Version** | `11.1` |
 | **Author** | [@vennec](https://t.me/Vennec) |
 | **Minimum Magisk** | v20.4 (versionCode `20400`) |
 
